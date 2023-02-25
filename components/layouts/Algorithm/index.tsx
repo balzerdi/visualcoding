@@ -20,10 +20,10 @@ const Algorithm = ({ title, github, description, sketch, code, tooltip='' } : {
                         <h1 className={styles.title}>{ title }</h1>
                         <div className='row'>
                             <Link href='#sketch' scroll={false} className='button'>Show Sketch</Link>
-                            <Link href={github} className={styles.linkWithIcon}>
+                            <a href={github} target='_blank' className={styles.linkWithIcon}>
                                 View Code on Github 
                                 <GitHubIcon />
-                            </Link>
+                            </a>
                         </div>
                         <p className={styles.description}>{ description }</p>
                     </div>

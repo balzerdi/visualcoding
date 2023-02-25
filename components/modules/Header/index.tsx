@@ -11,7 +11,7 @@ const Header = ({ light=false } : { light?: boolean }) => {
                 <ul>
                     <li><Link href='/algorithm'>Algorithms</Link></li>
                     <li><Link href="/about">About</Link></li>
-                    <li><a href=''>Github</a></li>
+                    <li><a href='https://github.com/balzerdi/visualcoding.git' target='_blank'>Github</a></li>
                 </ul>
             </div>
         </header>
