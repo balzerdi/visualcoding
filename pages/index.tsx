@@ -15,7 +15,7 @@ export default function Home() {
 			<main className={styles.main}>
 				<section className={styles.hero}>
 					<h1 className={styles.title}>Turning Code and Data<br/> into Visual Stories</h1>
-					<p className={`${styles.body} ${styles.dark}`}>Hi, my name is Dimitri Balzer. 👋<br/>I'm an interface design student at the FH;P.<br/>This website showcases my creative algorithms.</p>
+					<p className={`${styles.body} ${styles.dark}`}>Hi, my name is Dimitri Balzer. 👋<br/>I&apos;m an interface design student at the FH;P.<br/>This website showcases my creative algorithms.</p>
 					<div className='row'>
 						<Link href='/algorithm' scroll={false} className='button'>Have a look</Link>
 						<Link href='/about' className='dark'>
@@ -26,7 +26,7 @@ export default function Home() {
 				<section className={styles.algorithms}>
 					<h2 className={styles.subtitle}>Algorithms</h2>
 					<p className={`${styles.body}`}>
-						In Lucas Vogel's "Visual Stories with Code and Data" course, we took our<br/>
+						In Lucas Vogel&apos;s &quot;Visual Stories with Code and Data&quot; course, we took our<br/>
 						first steps in web development and explored the endless possibilities of<br/>
 						creating astonishing data-driven visualizations with <a href="https://p5js.org/" target='_blank'>p5.js</a>.<br/>
 						<br/>

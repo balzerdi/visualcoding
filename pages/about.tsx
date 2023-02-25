@@ -19,7 +19,7 @@ export default function About() {
                         <br/>
                         Even though I would consider myself more of an<br/>
                         advanced web developer (at the time of writing this paragraph),<br/>
-                        it's always fascinating to take another look at the basics and<br/>
+                        it&apos;s always fascinating to take another look at the basics and<br/>
                         discuss different approaches with other experts.<br/>
                         <br/>
                         I hope to dive deeper in to data science and how to<br/>

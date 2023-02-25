@@ -8,7 +8,7 @@ export default function About() {
             <section className={styles.algorithms}>
                 <h2 className={styles.subtitle}>Algorithms</h2>
                 <p className={`${styles.body}`}>
-                    In Lucas Vogel's "Visual Stories with Code and Data" course, we took our<br/>
+                    In Lucas Vogel&apos;s &quot;Visual Stories with Code and Data&quot; course, we took our<br/>
                     first steps in web development and explored the endless possibilities of<br/>
                     creating astonishing data-driven visualizations with <a href="https://p5js.org/" target='_blank'>p5.js</a>.<br/>
                     <br/>
