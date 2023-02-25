@@ -1,0 +1,26 @@
+.about {
+    width: 100vw;
+    display: flex;
+    background-image: url('/about.svg');
+    background-repeat: no-repeat;
+    background-size: 86%;
+    background-position: 100% 100%;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.title {
+    margin-top: 165px;
+    margin-bottom: 40px;
+    background: linear-gradient(90deg, #333333 0%, #343288 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
